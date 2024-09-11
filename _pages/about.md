@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a PhD student at Stanford University in [Cognitive Tools Lab](https://cogtoolslab.github.io/), advised by [Judith Fan](https://profiles.stanford.edu/judith-fan). 
+I am a PhD student at Stanford University, advised by Professor [Judith Fan](https://profiles.stanford.edu/judith-fan).
 
 My research is at the intersection of cognitive science and artificial intelligence (AI). Through my work, I hope to better understand the computational principles behind human intelligence, and use these insights to (1) build more advanced AI systems and architectures, (2) improve human-AI collaboration, and (3) accelerate progress in AI alignment.
 
