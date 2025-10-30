@@ -37,7 +37,7 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-I am a first year PhD student at Stanford University, advised by Professor [Judith Fan](https://profiles.stanford.edu/judith-fan). 
+I am a second year PhD student at Stanford University, advised by Professor [Judith Fan](https://profiles.stanford.edu/judith-fan). 
 
 My research focuses on the intersection of human and machine intelligence. I am particularly interested in the process of learning by thinking -- how humans and machines can improve their reasoning without any additional data or feedback from the outside world. More broadly, my goal is to formalize the computational principles behind human intelligence, and use such insights to both interpret and improve the reasoning capacities of artificial systems. 
 
