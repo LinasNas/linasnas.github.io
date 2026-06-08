@@ -39,7 +39,7 @@ latest_posts:
 ---
 I am a second year PhD student at Stanford University, advised by Professor [Judith Fan](https://profiles.stanford.edu/judith-fan). 
 
-My research focuses on the intersection of human and machine intelligence. I am particularly interested in the process of learning by thinking -- how humans and machines can improve their reasoning without any additional data or feedback from the outside world. More broadly, my goal is to formalize the computational principles behind human intelligence, and use such insights to both interpret and improve the reasoning capacities of artificial systems. 
+My research focuses on the intersection of human and machine intelligence. I am particularly interested in the process of learning by thinking -- how humans and machines can improve their reasoning with minimal data or feedback from the outside world. 
 
 Prior to coming to Stanford, I spent a wonderful year as a Pre-doctoral Fellow at Harvard University, collaborating with [Sam Gershman](https://psychology.fas.harvard.edu/people/samuel-j-gershman) and [Fiery Cushman](https://cushmanlab.fas.harvard.edu/). Before that, I earned a master's degree in statistics with a focus on statistical machine learning at the University of Oxford, where I worked with [Jakob Foerster](https://www.jakobfoerster.com/), [Christian Schroeder de Witt](https://schroederdewitt.com/), and [Chris Summerfield](https://www.psy.ox.ac.uk/people/christopher-summerfield). 
 
