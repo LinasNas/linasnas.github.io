@@ -39,9 +39,9 @@ latest_posts:
 ---
 I am a second year PhD student at Stanford University, advised by Professor [Judith Fan](https://profiles.stanford.edu/judith-fan). 
 
-My research focuses on the intersection of human and machine intelligence. I am particularly interested in the process of learning by thinking -- how humans and machines can improve their reasoning with minimal data or feedback from the outside world. 
+My research focuses on the intersection of human and machine intelligence. I am particularly interested in the process of experience-efficient reasoning -- how AI systems and humans can learn to think and generalize with minimal data or feedback from the outside world. 
 
-Prior to coming to Stanford, I spent a wonderful year as a Pre-doctoral Fellow at Harvard University, collaborating with [Sam Gershman](https://psychology.fas.harvard.edu/people/samuel-j-gershman) and [Fiery Cushman](https://cushmanlab.fas.harvard.edu/). Before that, I earned a master's degree in statistics with a focus on statistical machine learning at the University of Oxford, where I worked with [Jakob Foerster](https://www.jakobfoerster.com/), [Christian Schroeder de Witt](https://schroederdewitt.com/), and [Chris Summerfield](https://www.psy.ox.ac.uk/people/christopher-summerfield). 
+Prior to coming to Stanford, I spent a wonderful year as a Pre-doctoral Fellow at Harvard University, collaborating with [Sam Gershman](https://psychology.fas.harvard.edu/people/samuel-j-gershman) and [Fiery Cushman](https://cushmanlab.fas.harvard.edu/). Before that, I earned a master's degree with a focus on statistical machine learning at the University of Oxford, where I worked with [Jakob Foerster](https://www.jakobfoerster.com/), [Christian Schroeder de Witt](https://schroederdewitt.com/), and [Chris Summerfield](https://www.psy.ox.ac.uk/people/christopher-summerfield). 
 
 Before discovering the intersection of machine learning and cognitive science, I was a research analyst working with [Paul Romer](https://paulromer.net/about/) at NYU, where we focused on tech policy, cryptography, and economic research. I graduated from the Dual Bachelor's progam between Columbia University (BA in Economics) and Institut d'études politiques de Paris (BA in Politics, Philosophy and Economics). 
 
