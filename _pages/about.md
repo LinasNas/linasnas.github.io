@@ -45,7 +45,7 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-I am a second-year PhD student at Stanford University, advised by Professors [Judith Fan](https://profiles.stanford.edu/judith-fan) and [Noah Goodman](https://cocolab.stanford.edu/ndg). I'm currently spending the summer as a Research Fellow at [Goodfire](https://www.goodfire.ai/), working on interpretable model improvement.
+I am a second-year PhD student at Stanford University, advised by Professors [Judith Fan](https://profiles.stanford.edu/judith-fan) and [Noah Goodman](https://cocolab.stanford.edu/ndg). I'm currently spending the summer as a Research Fellow at [Goodfire](https://www.goodfire.ai/), working on interpretable self-improvement.
 
 My research focuses on the intersection of human and machine intelligence. I am particularly interested in **experience-efficient reasoning** -- how intelligent systems can quickly and continuously learn from minimal data or feedback from the outside world. 
 
