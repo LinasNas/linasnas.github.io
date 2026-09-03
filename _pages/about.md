@@ -47,7 +47,7 @@ latest_posts:
 ---
 I am a second-year PhD student at Stanford University, advised by Professors [Judith Fan](https://profiles.stanford.edu/judith-fan) and [Noah Goodman](https://cocolab.stanford.edu/ndg). I'm currently spending the summer as a Research Fellow at [Goodfire](https://www.goodfire.ai/), working on interpretable self-improvement.
 
-My research focuses on the intersection of human and machine intelligence. I am particularly interested in **experience-efficient reasoning** -- how intelligent systems can quickly and continuously learn from minimal data or feedback from the outside world. 
+My research focuses on the intersection of human and machine intelligence. I am particularly interested in **experience-efficient reasoning** -- how intelligent systems can quickly and continuously learn from minimal data and feedback from the outside world. 
 
 Before Stanford, I earned a master's degree in statistical machine learning at the University of Oxford, working with [Jakob Foerster](https://www.jakobfoerster.com/), [Christian Schroeder de Witt](https://schroederdewitt.com/), and [Chris Summerfield](https://www.psy.ox.ac.uk/people/christopher-summerfield). I also spent a wonderful year at Harvard University collaborating with [Sam Gershman](https://psychology.fas.harvard.edu/people/samuel-j-gershman) and [Fiery Cushman](https://cushmanlab.fas.harvard.edu/).
 
